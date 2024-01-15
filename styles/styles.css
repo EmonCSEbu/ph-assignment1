@@ -433,3 +433,7 @@ table{
     transition: 1s;
     background-color: #F00;
 }
+.s2{
+    position:relative;
+    left:45px;
+}
